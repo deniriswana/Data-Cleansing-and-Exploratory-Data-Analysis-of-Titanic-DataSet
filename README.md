@@ -36,5 +36,22 @@ Data Preparation is the stage where we prepare tools and materials before carryi
 - Packages: Pandas, Numpy, Matplotlib, Seaborn
 - IDE: Google Colab
 
-
-
+# Data Cleansing
+Data cleaning and preparation is an integral part of data science. Oftentimes, raw data comes in a form that isn’t ready for analysis or modeling due to structural characteristics or even the quality of the data. 
+1. Import required packages
+````
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+````
+2. Load Totanoc.csv file
+````
+from google.colab import files
+files.upload()
+````
+3. Show the loaded dataset
+````
+df.head()
+````
