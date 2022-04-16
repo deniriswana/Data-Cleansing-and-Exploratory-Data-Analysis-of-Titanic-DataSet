@@ -12,7 +12,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. In
 ### Methodology
 - Descriptive analysis
 - Graph/chart analysis
-### Ex[ected Outcome
+### Expected Outcome
 - Descriptive analysis
 = Graph/chart analysis
 
